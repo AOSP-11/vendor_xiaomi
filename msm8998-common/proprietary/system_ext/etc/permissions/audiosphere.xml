@@ -7,5 +7,5 @@
 
 <permissions>
     <library name="com.qualcomm.qti.audiosphere"
-            file="/system/framework/audiosphere.jar" />
+            file="/system_ext/framework/audiosphere.jar" />
 </permissions>
